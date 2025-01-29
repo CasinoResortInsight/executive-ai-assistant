@@ -68,7 +68,8 @@ See [this section](#run-in-production--langgraph-cloud-) for instructions on how
 ### Set up EAIA locally
 
 1. Install development server `pip install -U "langgraph-cli[inmem]"`
-2. Run development server `langgraph dev`
+2. Default to Chrome browser - $dbc in the terminal
+3. Run development server `langgraph dev`
 
 ### Ingest Emails Locally
 
